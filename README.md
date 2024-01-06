@@ -1,7 +1,9 @@
 <h1 style="text-align:center;">JAKOBOWSKI Aymeric</h1>
 
 <div style="text-align:center;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BlinkMacSystemFont&weight=900&size=30&duration=3900&pause=1000&color=016FB9&center=true&width=600&lines=Web+-+Python+-+Java+-+Database+Developer;IT+Student" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=25&duration=2000&pause=1200&color=FFB31E&center=true&vCenter=true&random=true&width=435&lines=Web+development;Python;JavaScript)](https://git.io/typing-svg)
+
 </div>
 
 <br>
