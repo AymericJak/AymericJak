@@ -28,8 +28,8 @@ function generateSkillsTable() {
     let table = '<table>';
     data.categories.forEach(category => {
         table += '<tr>';
-        table += `<th style="text-align: left;">${category.name}</th>`;
-        table += `<td style="text-align: right;">${generateCellContent(category)}</td>`;
+        table += `<th>${category.name}</th>`;
+        table += `<td>${generateCellContent(category)}</td>`;
         table += '</tr>';
     });
     table += '</table>';

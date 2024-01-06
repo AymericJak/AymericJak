@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "name": "Langages de programmation",
+      "name": "Programming languages",
       "tools": [
         {
           "name": "HTML5",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "Frameworks et Bibliothèques",
+      "name": "Frameworks & Libraries",
       "tools": [
         {
           "name": "AngularJS",
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Bases de Données",
+      "name": "Databases",
       "tools": [
         {
           "name": "PostgreSQL",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "name": "Outils de Développement",
+      "name": "Tools",
       "tools": [
         {
           "name": "Bash",
