@@ -1,0 +1,179 @@
+{
+  "categories": [
+    {
+      "name": "Langages de Programmation",
+      "tools": [
+        {
+          "name": "HTML5",
+          "logo": "https://skillicons.dev/icons?i=html",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://skillicons.dev/icons?i=css",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://skillicons.dev/icons?i=js",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        },
+        {
+          "name": "TypeScript",
+          "logo": "https://skillicons.dev/icons?i=ts",
+          "url": "https://www.typescriptlang.org/"
+        },
+        {
+          "name": "Python",
+          "logo": "https://skillicons.dev/icons?i=py",
+          "url": "https://www.python.org/"
+        },
+        {
+          "name": "Java",
+          "logo": "https://skillicons.dev/icons?i=java",
+          "url": "https://www.java.com/"
+        }
+      ]
+    },
+    {
+      "name": "Frameworks et Bibliothèques",
+      "tools": [
+        {
+          "name": "AngularJS",
+          "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg",
+          "url": "https://angularjs.org/"
+        },
+        {
+          "name": "Bootstrap",
+          "logo": "https://skillicons.dev/icons?i=bootstrap",
+          "url": "https://getbootstrap.com/"
+        },
+        {
+          "name": "Bulma",
+          "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg",
+          "url": "https://bulma.io/"
+        },
+        {
+          "name": "Django",
+          "logo": "https://skillicons.dev/icons?i=django",
+          "url": "https://www.djangoproject.com/"
+        },
+        {
+          "name": "Flask",
+          "logo": "https://skillicons.dev/icons?i=flask",
+          "url": "https://flask.palletsprojects.com/"
+        },
+        {
+          "name": "Laravel",
+          "logo": "https://skillicons.dev/icons?i=laravel",
+          "url": "https://laravel.com/"
+        },
+        {
+          "name": "Symfony",
+          "logo": "https://skillicons.dev/icons?i=symfony",
+          "url": "https://symfony.com/"
+        }
+      ]
+    },
+    {
+      "name": "Bases de Données",
+      "tools": [
+        {
+          "name": "PostgreSQL",
+          "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+          "url": "https://www.postgresql.org/"
+        },
+        {
+          "name": "SQLite",
+          "logo": "https://skillicons.dev/icons?i=sqlite",
+          "url": "https://www.sqlite.org/"
+        },
+        {
+          "name": "MySQL",
+          "logo": "https://skillicons.dev/icons?i=mysql",
+          "url": "https://www.mysql.com/"
+        }
+      ]
+    },
+    {
+      "name": "Outils de Développement",
+      "tools": [
+        {
+          "name": "Bash",
+          "logo": "https://skillicons.dev/icons?i=bash",
+          "url": "https://www.gnu.org/software/bash/"
+        },
+        {
+          "name": "Docker",
+          "logo": "https://skillicons.dev/icons?i=docker",
+          "url": "https://www.docker.com/"
+        },
+        {
+          "name": "Git",
+          "logo": "https://skillicons.dev/icons?i=git",
+          "url": "https://git-scm.com/"
+        },
+        {
+          "name": "GitHub",
+          "logo": "https://skillicons.dev/icons?i=github",
+          "url": "https://github.com/"
+        },
+        {
+          "name": "GitLab",
+          "logo": "https://skillicons.dev/icons?i=gitlab",
+          "url": "https://gitlab.com/"
+        },
+        {
+          "name": "VSCode",
+          "logo": "https://skillicons.dev/icons?i=vscode",
+          "url": "https://code.visualstudio.com/"
+        },
+        {
+          "name": "Eclipse IDE",
+          "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg",
+          "url": "https://www.eclipse.org/ide/"
+        },
+        {
+          "name": "IntelliJ IDEA",
+          "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg",
+          "url": "https://www.jetbrains.com/idea/"
+        },
+        {
+          "name": "PyCharm",
+          "logo": "https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge",
+          "url": "https://www.jetbrains.com/pycharm/"
+        },
+        {
+          "name": "WebStorm",
+          "logo": "https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge",
+          "url": "https://www.jetbrains.com/webstorm/"
+        },
+        {
+          "name": "PhpStorm",
+          "logo": "https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white&style=for-the-badge",
+          "url": "https://www.jetbrains.com/phpstorm/"
+        },
+        {
+          "name": "Android Studio",
+          "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg",
+          "url": "https://developer.android.com/studio"
+        }
+      ]
+    },
+    {
+      "name": "Design & Prototypage",
+      "tools": [
+        {
+          "name": "Figma",
+          "logo": "https://skillicons.dev/icons?i=figma",
+          "url": "https://www.figma.com/"
+        },
+        {
+          "name": "Canva",
+          "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg",
+          "url": "https://www.canva.com/"
+        }
+      ]
+    }
+  ]
+}
