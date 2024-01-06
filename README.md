@@ -8,7 +8,7 @@
 
 <h2 style="text-align:center;">⚙️ Languages</h2>
 
-<div style="text-align:center;">
+<div id="skills-container">
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
