@@ -6,8 +6,6 @@
 
 </div>
 
-<hr>
-
 <h2 align="center">⚙️ LANGUAGES ⚙️</h2>
 
 <div id="skills-container">
